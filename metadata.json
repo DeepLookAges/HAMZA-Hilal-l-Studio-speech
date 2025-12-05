@@ -1,0 +1,5 @@
+{
+  "name": "HAMZA Hilal | Speech Studio",
+  "description": "Professional Arabic text-to-speech studio using Gemini. Convert text to natural speech with dialect support, SSML controls, and audio downloading.",
+  "requestFramePermissions": []
+}
